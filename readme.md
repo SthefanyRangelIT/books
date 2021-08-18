@@ -2,8 +2,6 @@
 
 The number after the book name stands for the year in which the book was written in. All books are put in their respective category and are sorted from newest to oldest. 📕/📖 before the books show if the book is free or not.
 
-_Please read [contribution guidelines](contributing.md) before contributing._
-
 - [Algorithms](#algorithms)
 - [Architecture](#architecture)
 - [Art](#art)
@@ -1185,7 +1183,4 @@ _Please read [contribution guidelines](contributing.md) before contributing._
 - [Mind expanding books](https://github.com/hackerkid/Mind-Expanding-Books)
 - [Recommended reading for developers](https://blog.codinghorror.com/recommended-reading-for-developers)
 
-[![CC4](https://img.shields.io/badge/license-CC4-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://creativecommons.org/licenses/by/4.0/)
-[![Lists](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
-[![Contribute](https://img.shields.io/badge/-contribute-0a0a0a.svg?style=flat&colorA=0a0a0a)](contributing.md)
-[![Twitter](http://bit.ly/latwitt)](https://twitter.com/learnanything_)
+[![Learn anything](https://img.shields.io/badge/-more%20lists-0a0a0a.svg?style=flat&colorA=0a0a0a)](https://github.com/learn-anything/curated-lists)
